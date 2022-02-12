@@ -1,0 +1,4 @@
+Infelizmente tive grande dificuldade por falta de conhecimento prévio e tempo curto de estudo sobre testes unitários, 
+principalmente, Mocha, por isso preferi mandar apenas as partes que realmente fiz e entendi o processo de criação
+
+Agradeço imensamente a oportunidade.
