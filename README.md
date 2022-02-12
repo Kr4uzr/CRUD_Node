@@ -3,7 +3,8 @@ CRUD feita em Node.JS utilizando Express, Sequelize e MySQL.
 
 Código desenvolvido para aplicação da vaga de Desenvolvedor BackEnd na empresa Info.
 
-Depedencias
+1. Depedencias
+
     Express 
     Mysql2
     Node
@@ -11,13 +12,13 @@ Depedencias
     Sequelize
     prompt-sync
    
-1. Instalando as depedencias
+2. Instalando as depedencias
 
 ```bash
 npm install
 ```
 
-2. Rodando o programa
+3. Rodando o programa
 
 ```bash
 node index.js
