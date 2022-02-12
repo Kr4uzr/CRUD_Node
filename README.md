@@ -1,5 +1,5 @@
 # CRUD_Node
-CRUD feita em Node.JS utilizando Express, Sequelize e MySQL.
+CRUD e REST feitas em Node.JS utilizando Express, Sequelize e MySQL.
 
 Código desenvolvido para aplicação da vaga de Desenvolvedor BackEnd na empresa Info.
 
