@@ -1,7 +1,5 @@
-# CRUD_Node
-CRUD e REST feitas em Node.JS utilizando Express, Sequelize e MySQL.
-
-Código desenvolvido para aplicação da vaga de Desenvolvedor BackEnd na empresa Info.
+# NodeJS
+ API REST feita em Node.JS utilizando Express, Sequelize e MySQL.
 
 1. Depedencias
 
@@ -10,8 +8,7 @@ Código desenvolvido para aplicação da vaga de Desenvolvedor BackEnd na empres
     Node
     Nodemon
     Sequelize
-    prompt-sync
-   
+
 2. Instalando as depedencias
 
 ```bash
