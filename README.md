@@ -19,5 +19,4 @@ npm install
 
 ```bash
 node index.js
-node ./CRUD/indexCRUD.js
 ```
