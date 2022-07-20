@@ -52,5 +52,4 @@ app.listen(3306, () =>{
 *Teste realizado dia 10/02/2022: leitura e busca pelo ID 1, retorno = Uno.
 *Teste realizado dia 10/02/2022: Deletar no banco de dados do carro Uno.
 *
-*Obs: os dados inseridos de teste dos carros, são similares ao do indexCRUD.js
 */
