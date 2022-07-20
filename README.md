@@ -1,5 +1,5 @@
 # NodeJS
- API REST feita em Node.JS utilizando Express, Sequelize e MySQL.
+ CRUD feita em Node.JS utilizando Express, Sequelize e MySQL.
 
 1. Depedencias
 
