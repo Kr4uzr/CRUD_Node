@@ -40,16 +40,3 @@ app.delete("/Automoveis/:id", (req, resp) => { //Delete equivalente ao Delete de
 app.listen(3306, () =>{
     console.log('Ok');
 });
-
-
-/*
-*          ######### Testes com Postman #########
-*
-*Teste realizado dia 10/02/2022: cadastro no banco de dados do carro Gol. 
-*Teste realizado dia 10/02/2022: leitura e busca por todos os carros cadastrados, retorno = Gol.
-*Teste realizado dia 10/02/2022: leitura e busca pelo ID 1, retorno = Gol.
-*Teste realizado dia 10/02/2022: alteração no banco de dados do carro Gol para Uno.
-*Teste realizado dia 10/02/2022: leitura e busca pelo ID 1, retorno = Uno.
-*Teste realizado dia 10/02/2022: Deletar no banco de dados do carro Uno.
-*
-*/
